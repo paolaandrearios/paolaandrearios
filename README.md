@@ -9,6 +9,6 @@ I am a sanitary engineer graduated from the University of Antioquia, but for som
 - 🌱 I’m currently learning Python, Java, MySQL, JavaScript, Html, Css among other issues related to frontend development.
 - ✨ I’m very interested in frontend development and I want to focus on this.
 - 💻 I like self-taught learning, I have taken several online courses on platforms such as Platzi and YouTube.
-- 💡 Here in github I have some notes of the courses that I have done and I hope to continue registering new interesting projects.
+- 💡 Here in github, I have some notes of the courses that I have done and I hope to continue registering new interesting projects.
 
 Bye! 😀
