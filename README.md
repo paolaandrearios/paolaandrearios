@@ -5,7 +5,7 @@ I am a sanitary engineer graduated from the University of Antioquia, but for som
 - ⚡ My motivational phrase: “You're never given a dream without also being given the power to make it true.” ― Richard Bach.
 - 🚵 my hobbies: traveling, biking, hiking, listening to music, going to the cinema.
 - 
-- 🔭 I’m currently studying programming in MisionTIC, It is a program of the Colombian government to train new programmers and face the challenges of the fourth industrial               revolution.
+- 🔭 I’m currently studying programming in MisionTIC 🚀, It is a program of the Colombian government to train new programmers and face the challenges of the fourth industrial               revolution.
 - 🌱 I’m currently learning Python, Java, MySQL, JavaScript, Html, Css among other issues related to frontend development.
 - ✨ I’m very interested in frontend development and I want to focus on this.
 - 💻 I like self-taught learning, I have taken several online courses on platforms such as Platzi and YouTube.
